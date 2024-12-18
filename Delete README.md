@@ -1,0 +1,1 @@
+# delete asoc-automation-snippets
